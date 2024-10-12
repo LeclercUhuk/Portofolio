@@ -376,9 +376,9 @@ body {
 /*
 /* projects section styling */
 .projects .title::after{
-    content: "What i have created";
-    background-color: #ffffff00;
-    font-weight: underline;
+    /* content: "What i have created"; */
+    background-color: #ffffff;
+    /* font-weight: underline; */
 }
 .projects .carousel .card{
     background: #ffffff;
